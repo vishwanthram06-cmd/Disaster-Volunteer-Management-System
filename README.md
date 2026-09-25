@@ -12,6 +12,7 @@ to coordinate disaster relief activities.
 - NGO Management
 - Resource and Shelter Management
 - Administration and Reporting
+
 ## Project Management
 
 The project follows Scrum methodology and uses Jira
