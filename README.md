@@ -17,3 +17,7 @@ to coordinate disaster relief activities.
 
 The project follows Scrum methodology and uses Jira
 for planning, tracking, and managing development activities.
+
+## Development Team
+
+The project is developed and maintained by the software engineering team.
