@@ -26,3 +26,11 @@ The project is developed and maintained by the software engineering team.
 
 Volunteers can register their details, skills, availability,
 and assigned disaster-relief tasks.
+
+## Volunteer Availability
+
+Volunteers can specify their availability status as:
+
+- Available
+- Unavailable
+- Currently Assigned
