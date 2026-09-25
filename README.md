@@ -21,3 +21,8 @@ for planning, tracking, and managing development activities.
 ## Development Team
 
 The project is developed and maintained by the software engineering team.
+
+## Volunteer Management Feature
+
+Volunteers can register their details, skills, availability,
+and assigned disaster-relief tasks.
